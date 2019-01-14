@@ -1,14 +1,15 @@
 # curbside
 
-FIXME: description
+Clojure solution to the Curbside challenge using core.async...
 
 ## Installation
 
-Download from http://example.com/FIXME.
+git clone https://github.com/sineer/curbside
 
 ## Usage
 
 Here is the output running on an 3.4 GHz Intel Core i5 (4x CPUs):
+```
  j@jD0G  ~/s/curbside   master  lein run
 Hello Curbside!
 Session ID:  4038f1f09f9541d3b3fde538210405d6
@@ -97,3 +98,4 @@ SECRET KEY:  60da7c596820e0ccafa16b9971e5753eaa437eb36ff262184af24e2c61f8f657
 Time spent processing the challenge (in milliseconds):  84584
 Validating the key...
 Key is Valid! Success!!!
+```
